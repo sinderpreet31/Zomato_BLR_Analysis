@@ -4,6 +4,10 @@
 
 This project delves into the Zomato Bangalore Restaurants dataset to extract meaningful insights about dining preferences, online order availability, table booking facilities, restaurant ratings, and popular cuisines. The aim is to understand the current trends in the food industry of Bangalore and provide data-driven recommendations for restaurant owners and food enthusiasts.
 
+## Data Source
+
+Dataset can be downloaded from https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
 ## Analysis Overview
 
 ### Data Preparation
